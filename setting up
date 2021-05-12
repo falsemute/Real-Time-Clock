@@ -1,0 +1,15 @@
+# Setting Up
+
+
+Mkae sure to install js, html, and css before using any of the code to avoid any internal errors. 
+
+
+
+Use the command npm init to create the package.json and the package-lock.json file. 
+
+
+After running the command npm init and pressing enter to skip all the requirements, use your terminal to install the languages neccessary. 
+
+
+
+(npm install js) (npm install css) (npm install html). 
